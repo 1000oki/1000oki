@@ -21,4 +21,3 @@
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=VisualStudio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=flat-square&logo=AndroidStudio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat-square&logo=Arduino&logoColor=white)

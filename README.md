@@ -11,8 +11,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=C++&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat-square&logo=Android&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
+![Android](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
 

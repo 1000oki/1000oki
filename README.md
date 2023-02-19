@@ -21,3 +21,6 @@
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=VisualStudio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=flat-square&logo=AndroidStudio&logoColor=white)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1000oki&show_icons=true&theme=radical)
